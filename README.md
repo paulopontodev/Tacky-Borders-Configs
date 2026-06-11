@@ -6,7 +6,12 @@ Este repositório reúne meus arquivos de configuração do tacky-borders, usado
 
 ## 📁 Caminho da configuração
 
-Os arquivos devem ser colocados em:
+Os arquivos (.env | config.yaml | style.css) devem ser colocados em:
 
 ```txt
 C:\Users\nome_do_seu_usuario\.config\tacky-borders
+```
+
+### Caminho alternativo para a pasta de usuário
+```txt
+Win + R > %USERPROFILE%
