@@ -15,6 +15,7 @@ C:\Users\nome_do_seu_usuario\.config\tacky-borders
 ### Caminho alternativo para a pasta de usuário
 ```txt
 Win + R > %USERPROFILE%
+```
 
 ```md
 <div align="center">
