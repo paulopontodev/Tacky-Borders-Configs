@@ -17,16 +17,4 @@ C:\Users\nome_do_seu_usuario\.config\tacky-borders
 Win + R > %USERPROFILE%
 ```
 
-```md
-<div align="center">
-
-## 🎥 Vídeo de apresentação
-
-Confira o vídeo onde apresento e ensino a configurar as ferramentas de personalização:
-
-<a href="(https://www.youtube.com/watch?v=NUwYFnyHhQo&t=188s)" target="_blank">
-  <img src="https://img.shields.io/badge/Assistir%20no%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir no YouTube">
-</a>
-
-</div>
-```
+<div align="center"> <h2>🎥 Vídeo de apresentação</h2> <p> Confira o vídeo onde apresento e ensino a configurar as ferramentas de personalização: </p> <a href="https://www.youtube.com/watch?v=NUwYFnyHhQo&t=478s" target="_blank"> <img src="https://img.shields.io/badge/Assistir%20no%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir no YouTube"> </a> </div>
